@@ -1,1 +1,1 @@
-Implements a parser that interprets the token stream from the lexer.
+Implements a parser that interprets token stream from lexer.
